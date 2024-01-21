@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>data14_157.jpg</filename>
+	<path>C:\Users\123\Desktop\DJI\data14\JPEGImages\data14_157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>692</ymin>
+			<xmax>1071</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

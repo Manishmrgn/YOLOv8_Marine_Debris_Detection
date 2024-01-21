@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>out_222.jpg</filename>
+	<path>C:\Users\916\Desktop\label_img\images\out_222.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

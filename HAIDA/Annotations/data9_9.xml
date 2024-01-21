@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>out_131.jpg</filename>
+	<path>C:\Users\916\Desktop\pascal-VOC\images\out_131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>431</ymin>
+			<xmax>1093</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>
