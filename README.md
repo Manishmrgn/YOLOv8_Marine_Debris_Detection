@@ -18,25 +18,4 @@ are split into train/val/test. Labels are in **YOLO format**.
 - **Intended use:** Debris detection, environmental monitoring, aerial vision research  
 - **QA:** Multi-pass review for tight boxes and class consistency
 
----
-
-## Repository Structure
-
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-```text
-/
-├─ images/
-│  ├─ train/
-│  ├─ val/
-│  └─ test/
-├─ labels/                # YOLO .txt, one file per image
-│  ├─ train/
-│  ├─ val/
-│  └─ test/
-├─ data.yaml              # dataset config (paths, class names)
-├─ tools/
-│  ├─ verify_split.py     # basic structure checks
-│  └─ visualize_labels.py # quick bbox preview
-└─ README.md
+--
